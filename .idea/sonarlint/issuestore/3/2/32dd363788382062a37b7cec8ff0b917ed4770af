@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÀÑ•ùÿÿÿÿ8€õÅÅ…2J$1bdb4b2a-0365-4d5c-8f1c-887792161a0e
+‡
+java:S1854"?Remove this useless assignment to local variable "checkNumber".(ó°ç“ûÿÿÿÿ8ÛİŸÆ…2J$c5bdb412-3d3d-40e2-b9cc-f768a2aec60c
+s
+java:S1481"0Remove this unused "checkNumber" local variable.(åƒÕ8ÜİŸÆ…2J$48482a85-969d-4c32-a07b-7ba696d2b1a7
+g
+java:S2153"Remove the boxing to "Integer".(ó°ç“ûÿÿÿÿ8ŠõÅÅ…2J$2e150153-1041-4bf1-873a-3426969ca465
+r	java:S106!"+Replace this use of System.out by a logger.(…¬­îùÿÿÿÿ8õÅÅ…2J$1a1aa5c2-85ce-423b-960d-63810a25ff11
+r	java:S106""+Replace this use of System.out by a logger.(öêÈôúÿÿÿÿ8õÅÅ…2J$49eb3b51-f097-450e-a1b7-7d6c8157de62
+m	java:S106$"+Replace this use of System.out by a logger.(ûåóˆ8õÅÅ…2J$6312d78e-0a58-4c69-b976-b46bdee43888
+m	java:S106&"+Replace this use of System.out by a logger.(äã–8õÅÅ…2J$dad94b6c-da48-477d-bd5a-fbeab6ecc6cc

@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÀÑ•ùÿÿÿÿ8ÒéùÆ…2J$2d778e9c-cef0-45a8-82b3-8472cd447250
+l	java:S106#"+Replace this use of System.out by a logger.(”ßÈK8ÜéùÆ…2J$a926822d-b5f7-4dba-adfc-88d7578c693a
+r	java:S106%"+Replace this use of System.out by a logger.(ç· ÿÿÿÿÿ8ÜéùÆ…2J$e139e793-7349-49f6-a42b-3d15c5e101ef
+l	java:S106."+Replace this use of System.out by a logger.(›Û•8İéùÆ…2J$e12c4c17-230d-43b0-a853-e1816e1e2f88
+m	java:S106/"+Replace this use of System.out by a logger.(’«şó8İéùÆ…2J$84651d22-ec63-41fc-bea9-1199695f3a8d
+
+java:S1128"7Remove this unused import 'javax.xml.transform.Result'.(âÓ¸ûÿÿÿÿ8ŞéùÆ…2J$451508bd-a017-46e1-ba9b-2b8853236d14
+o
+java:S1128",Remove this unused import 'java.rmi.Remote'.(Ô¤ÈÓ8ŞéùÆ…2J$7ae98c4d-8467-4314-a7be-54365a57a024

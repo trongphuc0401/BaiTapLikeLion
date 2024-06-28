@@ -1,0 +1,17 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ÀÑ•ùÿÿÿÿ8Şî°Æ…2J$7ba81506-b3b1-4d1c-bcf3-1224592356f8
+j
+java:S1125!"'Remove the unnecessary boolean literal.(º†Ïâ8îî°Æ…2J$c8b34419-c73c-4497-bea2-e74334d443f3
+m	java:S106B"+Replace this use of System.out by a logger.(º¦„8¢¿±Æ…2J$6c253478-7540-4a01-b5a0-83c4b5f74e3a
+
+java:S1854G"7Remove this useless assignment to local variable "arr".(üÅâÓÿÿÿÿÿ8ûÆ¶Æ…2J$cdb8c074-96d4-4966-9c0e-78e29e063902
+p
+java:S1481G"(Remove this unused "arr" local variable.(üÅâÓÿÿÿÿÿ8şÆ¶Æ…2J$c4ab5674-ce47-4bdf-83d8-3747653ff665
+m	java:S106P"+Replace this use of System.out by a logger.(©ŞÀ§8£¿±Æ…2J$a5cd6505-51fd-4105-9f6d-de5436c6e8d2
+r	java:S106R"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¬ö´Æ…2J$a9c15e58-a719-4eb3-994a-09465eaee828
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8÷î°Æ…2J$cf31fa3d-ae93-499f-9f9e-3cde34fecf14
+s
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18øî°Æ…2J$57f1979b-60be-43dd-8e69-1631a29880a2
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8øî°Æ…2J$f8f0d58e-0359-4138-831d-14cb910a1d2d
