@@ -1,0 +1,12 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ÿ΅8¦ον†2J$a6d68e42-df74-46ba-8fca-99e0e4805386
+m	java:S106"+Replace this use of System.out by a logger.(φΣ½8¦ον†2J$0d4914f0-0db9-43c7-9aaa-6d5e95e10292
+r	java:S106"+Replace this use of System.out by a logger.(ΠΣΠϊÿÿÿÿ8›¦ον†2J$7b0b9e0e-a8de-47f6-b552-e1933b5754e9
+m	java:S106"+Replace this use of System.out by a logger.(ΊΌώ„8›¦ον†2J$db044dcf-2174-455f-b524-a37981d39bbf
+r	java:S106"+Replace this use of System.out by a logger.(Κ‚–ÿÿÿÿÿ8›¦ον†2J$4d972250-43e1-41ec-a538-9e7e73cc3cbf
+ƒ
+java:S1128"@Remove this unused import 'vn.edu.likelion.Day11.entity.Course'.(¦χ΄―8¦ον†2J$8fda9218-f5cf-43ed-8f29-8e89e2728004
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Υλ±Δψÿÿÿÿ8¦ον†2J$5cf3a7eb-e9a7-43ab-8f95-b1b2a48964cf
+w
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µΫ¶8¦ον†2J$e8d01791-42ef-4093-a857-42a93b89a84f

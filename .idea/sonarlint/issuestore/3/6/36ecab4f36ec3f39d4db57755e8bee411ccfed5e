@@ -1,0 +1,14 @@
+
+•
+java:S1104"RMake logger a static final constant or non-public and provide accessors if needed.(ğ·õè8¸şÍê†2J$1bb60943-bcd0-4fd9-bdd0-7a39bb4b1a91
+o
+java:S1444",Make this "public static logger" field final(ğ·õè8¹şÍê†2J$75b451bc-716b-48e7-891d-26581c3f9c3d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ÿ¡8¾¡Óé†2J$79bc4ae3-394d-4bac-ba16-1b7ab015533e
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“¤Ëáüÿÿÿÿ8ñä×ê†2J$5abff4c2-bb8b-4ca9-8c9d-cb02aa6795e6
+m	java:S106"+Replace this use of System.out by a logger.(¶ÑÖÉ8ƒĞ™í†2J$4ab8c7b5-5f71-4661-a497-2c83e62c80e8
+m	java:S106"+Replace this use of System.out by a logger.(³Ôø¨8„Ğ™í†2J$fd8f91ad-3e7b-4f5d-a8df-1ca4f71f4595
+m	java:S106"+Replace this use of System.out by a logger.(Î­¬Í8„Ğ™í†2J$266dd93d-cf7c-445a-b8c8-831e13afb9d9
+r	java:S106"+Replace this use of System.out by a logger.(ëŸÚÿÿÿÿÿ8…Ğ™í†2J$b2a9ee61-fbba-4d62-8219-12ecc53cc530
+w
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8†Ğ™í†2J$e56a3cb7-68a4-4850-9f66-82584357e1a4
