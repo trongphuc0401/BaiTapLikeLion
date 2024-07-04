@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8ûþÎæ‡2J$9e915542-d544-4edf-aad8-287c3dd2ab59
+r	java:S106("+Replace this use of System.out by a logger.(±Þ¡èþÿÿÿÿ8ŠÿÎæ‡2J$f42bd1b6-d0ed-4ab8-aae6-c3b27cdb9024
+r	java:S106)"+Replace this use of System.out by a logger.( À‹Äùÿÿÿÿ8™ÿÎæ‡2J$8cc7493c-7623-4730-a138-23b50ee8260b
+‹
+java:S1128"IRemove this unused import 'org.apache.logging.log4j.util.PropertySource'.(ªÊŒ8šÿÎæ‡2J$08508e03-4cc1-4e2e-b4b9-87beb7f47856

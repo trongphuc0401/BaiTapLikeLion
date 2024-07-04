@@ -79,3 +79,9 @@ o
 ?exercise/src/main/java/vn/edu/likelion/Day13/ConvertBinary.java,5\e\5ed6137d36b46c7ec0cd9c706ff3fbb8873dee2a
 k
 ;exercise/src/main/java/vn/edu/likelion/Day13/ConvertBi.java,c\1\c1c441b73c65e7202313f3bb0edf1b2cfc0978be
+u
+Eexercise/src/main/java/vn/edu/likelion/Day14/FindAverageByLambda.java,a\9\a9ff3cc07c1f4df98b95be62c0281a469b2768a1
+o
+?exercise/src/main/java/vn/edu/likelion/Day14/FIndPalidrome.java,4\8\485c4002967bb1ca9fc022a44fbc8458f0a1a193
+}
+Mexercise/src/main/java/vn/edu/likelion/Day14/FIndSmallestAndSecondLarest.java,6\e\6eeebd82dbe46336fe7420b425f67e8929a3e12b

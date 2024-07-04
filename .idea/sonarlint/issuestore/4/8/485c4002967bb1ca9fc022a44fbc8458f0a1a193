@@ -1,0 +1,13 @@
+
+–
+java:S1192F"SDefine a constant instead of duplicating this literal " is a palindrome? " 3 times.(¥˜“›8¯Íñæ‡2J$7581bb30-dd7d-485d-be72-7da6143c766e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8±Íñæ‡2J$d9be3a7a-c017-462f-ad94-21952113973a
+m	java:S106F"+Replace this use of System.out by a logger.(¥˜“›8¿Íñæ‡2J$f4151b0f-8e9d-4f7d-93c8-a8a5dfeb3947
+l	java:S106G"+Replace this use of System.out by a logger.(îÐ÷8¿Íñæ‡2J$8b5d6fdc-5dfa-491a-b3ee-56c085c9f9e3
+m	java:S106H"+Replace this use of System.out by a logger.(ŠÔÖé8ÀÍñæ‡2J$6a4ab08e-e787-4721-a255-56d190e6f451
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…äñæ‡2J$8cd98c56-62aa-42a5-975b-a2196535dfa5
+|
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8†äñæ‡2J$ada5b28d-d8d0-4c23-8c24-4a0ff7288fb8
+w
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8†äñæ‡2J$5155481c-8c72-4e6c-b55b-76ded2e65970
