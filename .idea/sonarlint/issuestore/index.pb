@@ -85,3 +85,11 @@ o
 ?exercise/src/main/java/vn/edu/likelion/Day14/FIndPalidrome.java,4\8\485c4002967bb1ca9fc022a44fbc8458f0a1a193
 }
 Mexercise/src/main/java/vn/edu/likelion/Day14/FIndSmallestAndSecondLarest.java,6\e\6eeebd82dbe46336fe7420b425f67e8929a3e12b
+l
+<exercise/src/main/java/vn/edu/likelion/Day14/TestStream.java,7\9\7949a5fb7aeb9489e60f3e4d77e6da04ce3e1186
+n
+>exercise/src/main/java/vn/edu/likelion/Day15/TestOptional.java,e\2\e20581c7203f857529aa71b905e8718f868f9fb4
+x
+Hexercise/src/main/java/vn/edu/likelion/Day15/CalculateSumOddAndEven.java,9\4\947e2c5d016cf9fcbeceece102a00a2860b6e758
+w
+Gexercise/src/main/java/vn/edu/likelion/Day15/ReviewDuplicateElment.java,2\9\29fb71d9d551737005b13ffe3ab94c4ebe626fad

@@ -1,27 +1,27 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ›ËÛ8š‘–»‡2J$a06ade28-91d5-4b68-b6aa-a4b1118642ee
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ›ËÛ8š‘–»‡2J$07471cc2-6783-41f6-b1bb-d642fa2faa43
 É
-java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(žÇêƒýÿÿÿÿ8©‘–»‡2J$74a80bb9-3ebc-4b94-a106-32c36f99992b
-r	java:S106"+Replace this use of System.out by a logger.(Ã¶ÜÀýÿÿÿÿ8¯‘–»‡2J$f614a4e5-ea06-4373-bf31-755d28eee97d
-m	java:S106"+Replace this use of System.out by a logger.(–”êç8¯‘–»‡2J$78731a3f-4209-43c0-9988-b232a5faf309
-m	java:S106$"+Replace this use of System.out by a logger.(ÆŸ™Á8°‘–»‡2J$a0f678dc-4d1a-467c-9ec2-7a2e64a90c3c
-m	java:S106*"+Replace this use of System.out by a logger.(¹Š©§8±‘–»‡2J$2762552a-0191-4650-be8d-97ac4d2b7063
-r	java:S106/"+Replace this use of System.out by a logger.(³‰•Ÿýÿÿÿÿ8²‘–»‡2J$9b78870d-9286-42e3-9463-ac5e4bbfe0d8
-r	java:S1064"+Replace this use of System.out by a logger.(³œ¦”þÿÿÿÿ8³‘–»‡2J$d192c328-5b7c-4c02-a6f1-5fd367767be0
-r	java:S106N"+Replace this use of System.out by a logger.(‚·„«üÿÿÿÿ8µ‘–»‡2J$758e85a2-eec6-4f5e-82b5-6a8249a71524
-m	java:S106O"+Replace this use of System.out by a logger.(öŠÓ½8¶‘–»‡2J$14167a64-642e-4621-b9c2-06c565cdd81b
-r	java:S106P"+Replace this use of System.out by a logger.(üº§Žøÿÿÿÿ8¶‘–»‡2J$84e77346-fbbd-4a4f-9600-3d478fd2594c
-r	java:S106Q"+Replace this use of System.out by a logger.(ûÕÉ›üÿÿÿÿ8¶‘–»‡2J$750ce089-2b42-4e32-b74d-4e6fb81c3ec1
-r	java:S106R"+Replace this use of System.out by a logger.(Åþ›†ûÿÿÿÿ8¶‘–»‡2J$e43ee9c5-e06f-4b61-8e0f-fd8235b5f46c
-r	java:S106U"+Replace this use of System.out by a logger.(Õµ½›üÿÿÿÿ8¶‘–»‡2J$1d4920dd-fed4-4a64-85d2-eddd8ee1a506
+java:S1186E"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(žÇêƒýÿÿÿÿ8©‘–»‡2J$bd4eba24-6e13-4427-8f47-ce4eda41d0bd
+r	java:S106"+Replace this use of System.out by a logger.(Ã¶ÜÀýÿÿÿÿ8¯‘–»‡2J$9d08880d-78ad-43e7-a450-2d12e834fc68
+m	java:S106"+Replace this use of System.out by a logger.(–”êç8¯‘–»‡2J$04370398-2434-4047-aaba-4020faca01cb
+m	java:S106$"+Replace this use of System.out by a logger.(ÆŸ™Á8°‘–»‡2J$07206240-d593-499c-96f6-d27b5a8380b1
+m	java:S106*"+Replace this use of System.out by a logger.(¹Š©§8±‘–»‡2J$b8015268-971a-4a6d-a36b-2dd1dc698c17
+r	java:S106/"+Replace this use of System.out by a logger.(³‰•Ÿýÿÿÿÿ8²‘–»‡2J$41c84a9d-71bb-42b6-9fb9-c0fc4b63d222
+r	java:S1064"+Replace this use of System.out by a logger.(³œ¦”þÿÿÿÿ8³‘–»‡2J$ee6a78fa-0448-42d9-9ab1-29ba25ed806d
+r	java:S106N"+Replace this use of System.out by a logger.(‚·„«üÿÿÿÿ8µ‘–»‡2J$29be88ee-b197-47e5-883b-a991a4f37cff
+m	java:S106O"+Replace this use of System.out by a logger.(öŠÓ½8¶‘–»‡2J$29357640-2b4a-4bb4-a554-28c0c0fbf8c6
+r	java:S106P"+Replace this use of System.out by a logger.(üº§Žøÿÿÿÿ8¶‘–»‡2J$c82bfcad-f1b9-421a-a34c-b6be444e90d3
+r	java:S106Q"+Replace this use of System.out by a logger.(ûÕÉ›üÿÿÿÿ8¶‘–»‡2J$c1e11daa-3cd9-46bf-b9ea-3df71ab455f6
+r	java:S106R"+Replace this use of System.out by a logger.(Åþ›†ûÿÿÿÿ8¶‘–»‡2J$c079bc80-a6c4-431b-b25b-4f9ae2c2017c
+r	java:S106U"+Replace this use of System.out by a logger.(Õµ½›üÿÿÿÿ8¶‘–»‡2J$fcbde28c-8bba-4e68-af0b-413dc4335190
 ‹
-java:S1854]"CRemove this useless assignment to local variable "studentOptional".(ûÙÍêùÿÿÿÿ8·‘–»‡2J$75d15df4-4e2b-4b35-876b-c9e3312fd25a
+java:S1854]"CRemove this useless assignment to local variable "studentOptional".(ûÙÍêùÿÿÿÿ8·‘–»‡2J$9dcadcde-b528-43fd-8ccb-4f4181ef025e
 €
-java:S1854b"8Remove this useless assignment to local variable "name".(Ü°ŒŸÿÿÿÿÿ8·‘–»‡2J$f77728a8-5964-4394-bf42-4e87bd4c38e2
+java:S1854b"8Remove this useless assignment to local variable "name".(Ü°ŒŸÿÿÿÿÿ8·‘–»‡2J$65e09a1b-9921-4afd-a2c3-fe194a9e8ed4
 |
-java:S1481]"4Remove this unused "studentOptional" local variable.(ûÙÍêùÿÿÿÿ8¹‘–»‡2J$e74905da-b7db-4415-8254-5b3b0ed43243
+java:S1481]"4Remove this unused "studentOptional" local variable.(ûÙÍêùÿÿÿÿ8¹‘–»‡2J$7678280e-e3e0-4a17-b0eb-db0fae3191f6
 n
-java:S1481`"&Remove this unused "s" local variable.(¿ø™þþÿÿÿÿ8¹‘–»‡2J$4206171b-1034-4bc8-9e79-50860af7a58c
-m	java:S106a"+Replace this use of System.out by a logger.(ÆŸ™Á8¹‘–»‡2J$60b509b6-7efa-4ba6-b9b5-d18b2ce326e0
+java:S1481`"&Remove this unused "s" local variable.(¿ø™þþÿÿÿÿ8¹‘–»‡2J$b9a3498d-ac39-4430-9671-681c4f861d2e
+m	java:S106a"+Replace this use of System.out by a logger.(ÆŸ™Á8¹‘–»‡2J$3506022c-f7d5-4bff-bc41-3b5eaf670cbd
 q
-java:S1481b")Remove this unused "name" local variable.(Ü°ŒŸÿÿÿÿÿ8¹‘–»‡2J$62386964-427a-4fa3-b349-2bf892434fa7
+java:S1481b")Remove this unused "name" local variable.(Ü°ŒŸÿÿÿÿÿ8¹‘–»‡2J$afd50776-7dfa-48a8-ad3a-09a6c7b86b34

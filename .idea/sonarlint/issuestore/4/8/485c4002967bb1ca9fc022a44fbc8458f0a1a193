@@ -1,13 +1,13 @@
 
 –
-java:S1192F"SDefine a constant instead of duplicating this literal " is a palindrome? " 3 times.(¥˜“›8¯Íñæ‡2J$7581bb30-dd7d-485d-be72-7da6143c766e
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8±Íñæ‡2J$d9be3a7a-c017-462f-ad94-21952113973a
-m	java:S106F"+Replace this use of System.out by a logger.(¥˜“›8¿Íñæ‡2J$f4151b0f-8e9d-4f7d-93c8-a8a5dfeb3947
-l	java:S106G"+Replace this use of System.out by a logger.(îÐ÷8¿Íñæ‡2J$8b5d6fdc-5dfa-491a-b3ee-56c085c9f9e3
-m	java:S106H"+Replace this use of System.out by a logger.(ŠÔÖé8ÀÍñæ‡2J$6a4ab08e-e787-4721-a255-56d190e6f451
+java:S1192F"SDefine a constant instead of duplicating this literal " is a palindrome? " 3 times.(¥˜“›8¯Íñæ‡2J$45519a8e-be32-4c87-880a-80b9745fb372
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8±Íñæ‡2J$beb8c1f8-210e-4f1c-b7ea-ec73d6b470c5
+m	java:S106F"+Replace this use of System.out by a logger.(¥˜“›8¿Íñæ‡2J$7720371f-48e6-4bf0-ab34-e346d2641525
+l	java:S106G"+Replace this use of System.out by a logger.(îÐ÷8¿Íñæ‡2J$96f56de2-ae4c-4785-af61-c4c01bce8242
+m	java:S106H"+Replace this use of System.out by a logger.(ŠÔÖé8ÀÍñæ‡2J$748745ae-bb26-4733-84e0-8082ad00f5dc
 s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…äñæ‡2J$8cd98c56-62aa-42a5-975b-a2196535dfa5
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…äñæ‡2J$2e8f180a-fa61-4ea1-920b-348dca3f0d5c
 |
-java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8†äñæ‡2J$ada5b28d-d8d0-4c23-8c24-4a0ff7288fb8
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8†äñæ‡2J$98285a65-7da5-495c-a4d7-dc627b74a66d
 w
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8†äñæ‡2J$5155481c-8c72-4e6c-b55b-76ded2e65970
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8†äñæ‡2J$2e32e308-aa1e-4262-b440-d0c3f5d65221

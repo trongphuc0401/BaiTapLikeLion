@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8©Í–ˆ2
+l
+java:S1854"JRemove this useless assignment to local variable "removeDuplicateElement".(³’œÕıÿÿÿÿ8²Í–ˆ2
+]
+java:S1481";Remove this unused "removeDuplicateElement" local variable.(³’œÕıÿÿÿÿ8µÍ–ˆ2
+L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¶Í–ˆ2
+G	java:S106"+Replace this use of System.out by a logger.(øÒ¬Ğ8·Í–ˆ2
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¸Í–ˆ2
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¹Í–ˆ2
