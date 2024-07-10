@@ -1,7 +1,7 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕğÑûÿÿÿÿ8Şìóé‡2J$09284374-1505-45c1-a0fc-1bb76f77db99
-r	java:S106"+Replace this use of System.out by a logger.(ÚÁœûÿÿÿÿ8®Èøé‡2J$ac171219-352c-41f2-ba76-124c3608b54a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕğÑûÿÿÿÿ8Şìóé‡2J$47d34f39-e40f-4e9c-8bd6-dd6a4e506dce
+r	java:S106"+Replace this use of System.out by a logger.(ÚÁœûÿÿÿÿ8®Èøé‡2J$a9e53029-0f3d-4786-b474-cd63bd699af6
 v
-java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8°Èøé‡2J$346d8284-aa05-40f4-8ebf-28e7f145f428
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8°Èøé‡2J$2119cc7a-b64c-41cd-b1b9-2ec2e6021cae
 €
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8°Èøé‡2J$c566ed0a-0d26-47cb-ba8b-740340f0640e
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8°Èøé‡2J$2b3f79ba-b878-49d0-8119-5d85b50cc5be

@@ -1,10 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8²İ’‡ˆ2J$99844ab5-0509-48ec-ba35-a49963670989
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8²İ’‡ˆ2J$051afa65-4f89-436c-9297-9a871b23772e
 t
-java:S1481",Remove this unused "phucHoi" local variable.(Áôí»ıÿÿÿÿ8ºİ’‡ˆ2J$01927c9b-657f-4817-b6f2-fbb9914f5e2a
-r	java:S106"+Replace this use of System.out by a logger.(ÃÉäšøÿÿÿÿ8¼İ’‡ˆ2J$f62bf089-8e26-407b-b4a5-991649a0014e
-r	java:S106"+Replace this use of System.out by a logger.(¬Æú“øÿÿÿÿ8Î“‡ˆ2J$2e4e4300-98e5-410f-bd11-f32fb344b3d7
+java:S1481",Remove this unused "phucHoi" local variable.(Áôí»ıÿÿÿÿ8ºİ’‡ˆ2J$4ba8fa2f-7f77-4c6b-b5b1-402db40eb0c4
+r	java:S106"+Replace this use of System.out by a logger.(ÃÉäšøÿÿÿÿ8¼İ’‡ˆ2J$756c2d8a-ccc7-4a83-8d4a-25d4c11af314
+r	java:S106"+Replace this use of System.out by a logger.(¬Æú“øÿÿÿÿ8Î“‡ˆ2J$959af58a-2f48-4b2e-bc57-e1383b029eff
 t
-java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Àİ’‡ˆ2J$b8d64457-e5aa-4e79-828a-bcb94fd50f79
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Àİ’‡ˆ2J$1abfaa48-cb47-4793-b21a-ffac61fb0e0b
 €
-java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8Àİ’‡ˆ2J$cc67f537-e362-4ee6-9581-0c9960a32c89
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8Àİ’‡ˆ2J$c3372e34-32db-4aa3-bd44-590c5e5b08b8

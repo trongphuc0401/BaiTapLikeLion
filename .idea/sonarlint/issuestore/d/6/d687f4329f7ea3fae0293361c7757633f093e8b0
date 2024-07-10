@@ -1,11 +1,11 @@
 
 q
-java:S1066;"/Merge this if statement with the enclosing one.(€¯›8ÍÍ¬¿‡2J$8820e539-36a8-4474-85e3-93276eaa13e9
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ì„âùÿÿÿÿ8ÏÍ¬¿‡2J$5861a8b2-6d3b-4821-9cf3-dd71f30f0d93
+java:S1066;"/Merge this if statement with the enclosing one.(€¯›8ÍÍ¬¿‡2J$c3ea9b73-a9d8-46dc-9a7b-d60bda5152bf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ì„âùÿÿÿÿ8ÏÍ¬¿‡2J$2ff41d76-38be-4562-a788-77c52fa048d6
 t
-java:S1611+"1Remove the parentheses around the "num" parameter(œƒ°¬8ÝÍ¬¿‡2J$5045c71d-48c7-47f4-9764-25253867a1c8
-l	java:S106H"+Replace this use of System.out by a logger.(¯àµS8áÍ¬¿‡2J$8c4d40c6-13b1-4a1b-9962-f13d9e0e38c2
+java:S1611+"1Remove the parentheses around the "num" parameter(œƒ°¬8ÝÍ¬¿‡2J$3025f9d5-e4df-4be7-8c47-cba19f082b41
+l	java:S106H"+Replace this use of System.out by a logger.(¯àµS8áÍ¬¿‡2J$84b76601-9d25-4584-9851-416cdad71fdb
 r
-java:S1128"/Remove this unused import 'java.util.function'.(Üþ’¿8‹ì¬¿‡2J$e6b8bda1-bc78-482e-9e94-929671641564
+java:S1128"/Remove this unused import 'java.util.function'.(Üþ’¿8‹ì¬¿‡2J$cb3abc2c-f0fc-4988-9e5f-cb017d8da094
 
-java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8‹ì¬¿‡2J$712047c8-5683-41a4-9b75-11f6466d34b0
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8‹ì¬¿‡2J$8e87fc84-6550-499f-8473-3cde33efca1f

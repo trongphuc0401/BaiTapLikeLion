@@ -1,6 +1,6 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8ûþÎæ‡2J$b29b9556-5dde-49bf-96f6-90966f1f309b
-r	java:S106("+Replace this use of System.out by a logger.(±Þ¡èþÿÿÿÿ8ŠÿÎæ‡2J$a22d6400-d131-4305-a49e-cdef9b5ddf7d
-r	java:S106)"+Replace this use of System.out by a logger.( À‹Äùÿÿÿÿ8™ÿÎæ‡2J$598e3b80-5d53-485f-8484-0aad4f3fbb63
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8ûþÎæ‡2J$94751232-4d4e-4623-aa14-5b6178aed41a
+r	java:S106("+Replace this use of System.out by a logger.(±Þ¡èþÿÿÿÿ8ŠÿÎæ‡2J$0763321e-1e4e-4b93-b61b-bbfcdc452a07
+r	java:S106)"+Replace this use of System.out by a logger.( À‹Äùÿÿÿÿ8™ÿÎæ‡2J$e58ea697-0a13-4c91-ba04-7e95e826740d
 ‹
-java:S1128"IRemove this unused import 'org.apache.logging.log4j.util.PropertySource'.(ªÊŒ8šÿÎæ‡2J$57da28b6-264b-442f-8ac0-b2d0e122555c
+java:S1128"IRemove this unused import 'org.apache.logging.log4j.util.PropertySource'.(ªÊŒ8šÿÎæ‡2J$c39580c2-311e-40d2-8666-4a57c432fa16

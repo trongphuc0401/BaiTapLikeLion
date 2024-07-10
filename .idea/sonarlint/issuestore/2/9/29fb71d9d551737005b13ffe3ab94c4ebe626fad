@@ -1,12 +1,12 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8©Í–ˆ2
-l
-java:S1854"JRemove this useless assignment to local variable "removeDuplicateElement".(³’œÕıÿÿÿÿ8²Í–ˆ2
-]
-java:S1481";Remove this unused "removeDuplicateElement" local variable.(³’œÕıÿÿÿÿ8µÍ–ˆ2
-L	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¶Í–ˆ2
-G	java:S106"+Replace this use of System.out by a logger.(øÒ¬Ğ8·Í–ˆ2
-Y
-java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¸Í–ˆ2
-Q
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¹Í–ˆ2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8©Í–ˆ2J$ee703f40-b233-436c-9aeb-349b46c9580e
+’
+java:S1854"JRemove this useless assignment to local variable "removeDuplicateElement".(³’œÕıÿÿÿÿ8²Í–ˆ2J$e8d16afc-56ef-46ce-8252-d73eff4ea222
+ƒ
+java:S1481";Remove this unused "removeDuplicateElement" local variable.(³’œÕıÿÿÿÿ8µÍ–ˆ2J$370ae332-649b-4bf3-9963-009040e656a5
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¶Í–ˆ2J$fe1f44fb-b7f5-452a-af8b-18c340d462be
+m	java:S106"+Replace this use of System.out by a logger.(øÒ¬Ğ8·Í–ˆ2J$912fd580-953d-459f-8e23-0c33a5880b72
+
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¸Í–ˆ2J$529d6ab0-d19e-4339-9312-36cffd86a639
+w
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8¹Í–ˆ2J$4b0945ca-d14e-4c99-acbc-1af00ae535e5

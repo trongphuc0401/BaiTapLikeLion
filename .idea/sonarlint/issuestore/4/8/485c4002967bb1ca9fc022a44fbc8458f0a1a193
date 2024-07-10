@@ -1,13 +1,13 @@
 
 –
-java:S1192F"SDefine a constant instead of duplicating this literal " is a palindrome? " 3 times.(¥˜“›8¯Íñæ‡2J$45519a8e-be32-4c87-880a-80b9745fb372
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8±Íñæ‡2J$beb8c1f8-210e-4f1c-b7ea-ec73d6b470c5
-m	java:S106F"+Replace this use of System.out by a logger.(¥˜“›8¿Íñæ‡2J$7720371f-48e6-4bf0-ab34-e346d2641525
-l	java:S106G"+Replace this use of System.out by a logger.(îÐ÷8¿Íñæ‡2J$96f56de2-ae4c-4785-af61-c4c01bce8242
-m	java:S106H"+Replace this use of System.out by a logger.(ŠÔÖé8ÀÍñæ‡2J$748745ae-bb26-4733-84e0-8082ad00f5dc
+java:S1192F"SDefine a constant instead of duplicating this literal " is a palindrome? " 3 times.(¥˜“›8¯Íñæ‡2J$49d6f745-9636-411f-b7d8-4624eab3291d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ÕðÑûÿÿÿÿ8±Íñæ‡2J$e459a648-45f6-4a06-ad0c-3fc1a2c86008
+m	java:S106F"+Replace this use of System.out by a logger.(¥˜“›8¿Íñæ‡2J$054f7505-cba6-4586-b04e-1a7e74fa3084
+l	java:S106G"+Replace this use of System.out by a logger.(îÐ÷8¿Íñæ‡2J$3c8c7c4d-a3cd-4cdd-8ddb-68972e7c7773
+m	java:S106H"+Replace this use of System.out by a logger.(ŠÔÖé8ÀÍñæ‡2J$c0685fa5-5085-4b33-9780-042e03c28536
 s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…äñæ‡2J$2e8f180a-fa61-4ea1-920b-348dca3f0d5c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…äñæ‡2J$0a805d4d-b081-4988-a22f-9ad7ed6d6661
 |
-java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8†äñæ‡2J$98285a65-7da5-495c-a4d7-dc627b74a66d
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8†äñæ‡2J$c8acc2ac-9a2f-4ef1-a29b-ee6297af8dec
 w
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8†äñæ‡2J$2e32e308-aa1e-4262-b440-d0c3f5d65221
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8†äñæ‡2J$4d7a81f7-7594-4722-aa16-d5f371958e1f

@@ -1,12 +1,12 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8ƒöÃŽˆ2J$93a03150-f4bb-460e-901d-7bc6dcbbaa04
-r	java:S106"+Replace this use of System.out by a logger.(ÃÔ“êøÿÿÿÿ8‰öÃŽˆ2J$46e0ab13-e0fb-41ba-bba5-685ec1fa6c3c
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç¶ìÎþÿÿÿÿ8¨€ÅŽˆ2J$231b72f7-f4e4-48e6-aa3f-c6dc93cd6ea3
-r	java:S106"+Replace this use of System.out by a logger.(â«¨øÿÿÿÿ8ŠöÃŽˆ2J$6ae3aac7-1194-477c-a043-fa5ef4299b87
-}	java:S125"<This block of commented-out lines of code should be removed.(Âîðh8…•ÅŽˆ2J$34dc2bff-f89e-4459-83e6-160d15a2f637
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÌŒ³8ƒöÃŽˆ2J$132789d4-2407-4816-ade3-778a8ff15b5a
+r	java:S106"+Replace this use of System.out by a logger.(ÃÔ“êøÿÿÿÿ8‰öÃŽˆ2J$d10a44e0-e3d7-4b08-a6f2-949a7faff9a7
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ç¶ìÎþÿÿÿÿ8¨€ÅŽˆ2J$a5a8cb50-d53e-4ec4-912e-c42be990a110
+r	java:S106"+Replace this use of System.out by a logger.(â«¨øÿÿÿÿ8ŠöÃŽˆ2J$223ea1fa-0971-4a74-98fc-211d093609a5
+}	java:S125"<This block of commented-out lines of code should be removed.(Âîðh8…•ÅŽˆ2J$6511ab9c-ec53-46ec-a0d5-93b78d6a30fd
 s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ø©ËŽˆ2J$13e1f52d-55cc-4496-b35e-e9a32b87c7a9
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ø©ËŽˆ2J$a4c47152-69b3-4054-bad1-1266a49b43de
 w
-java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8ø©ËŽˆ2J$a2244b30-8203-44d8-80d9-9b5a9d7f37cc
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëÝüÿÿÿÿ8ø©ËŽˆ2J$335d1eb7-4431-4173-af45-221547af9d20
 w
-java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8ù©ËŽˆ2J$d18726e5-9c11-4f1c-9f98-4f6c2d62bcca
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8ù©ËŽˆ2J$e733c875-11b5-4b90-957b-1e52505cf86d
